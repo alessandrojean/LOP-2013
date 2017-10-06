@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caça níquel", "Caça níquel\Caça níquel.csproj", "{82D9E25A-5C75-43C2-8FC3-95CF5BFA06FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82D9E25A-5C75-43C2-8FC3-95CF5BFA06FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D9E25A-5C75-43C2-8FC3-95CF5BFA06FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D9E25A-5C75-43C2-8FC3-95CF5BFA06FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D9E25A-5C75-43C2-8FC3-95CF5BFA06FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
